@@ -1,2 +1,3 @@
 # python-dice
 this is my first project as python programmer.. building a dice
+i used random module to generate a random number from a list containing 1,2,3,4,5,6...
